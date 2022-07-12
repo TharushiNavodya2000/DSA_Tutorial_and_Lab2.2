@@ -115,6 +115,7 @@ public class Main
         {
             temp = pc2.remove();
             System.out.print("Transaction  "+temp);
+            System.out.println("Hello");
         }
     }
 
